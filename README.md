@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola   👋
+🔭 Actualmente estoy trabajando en Auxiliar Administrativo
+- 🌱  Actualmente estoy aprendiendo ingles curso sena virtual y habilidades en matemáticas
+- 📫 Cómo contactarme email: luzrocio2507@gmail.com 
+- 😄  Pronombres: chely
 
 <!--
 **luzRocio2507/luzRocio2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
